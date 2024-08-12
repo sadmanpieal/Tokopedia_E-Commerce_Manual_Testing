@@ -5,7 +5,7 @@
 
 
 
-##   FUll Project Mapping Diagram
+##   Full Project Mapping Diagram
 
 ![Tokopedia](https://github.com/user-attachments/assets/c6b46841-7403-473b-9f86-8d3deedbd8e3)
 
