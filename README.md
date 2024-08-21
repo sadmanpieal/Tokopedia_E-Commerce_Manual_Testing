@@ -1,7 +1,8 @@
 # <div align=center>Tokopedia an online ecommerce platform </div>
 
 ## About this project:
-### i've tested this platfrom . Where tokopedia, founded in 2009, is a leading Indonesian e-commerce platform that connects millions of buyers and sellers, offering a wide range of products and services. It has significantly impacted Indonesia's digital economy and expanded its offerings through innovations and strategic mergers, including its integration with Gojek..
+
+i've tested this platfrom . Where tokopedia, founded in 2009, is a leading Indonesian e-commerce platform that connects millions of buyers and sellers, offering a wide range of products and services. It has significantly impacted Indonesia's digital economy and expanded its offerings through innovations and strategic mergers, including its integration with Gojek..
 
 
 
